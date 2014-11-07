@@ -17,6 +17,8 @@ Dependencies
 ------------
 wget, sed, tr, swfextract, imagemagick, pdfunite, find, awk
 
+99% of Linux distros ship with most of these tools, possibly save swfextract and imagemagick.  Where they cannot be found in distros they can almost always be found in repositories.
+
 Usage
 ------
 
@@ -40,3 +42,5 @@ That the B&H perusals portal does not incorporate any measure of internal or ext
 Known Issues
 -------------
 Could stand to be implemented more efficiently, particularly the conversion stages.
+
+Windows support currently nonexistent.
